@@ -1,0 +1,8 @@
+.zip
+.idea
+.vscode
+.tar.gz
+docker/logs
+docker/storage
+public/vendor
+
